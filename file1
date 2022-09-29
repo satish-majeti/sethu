@@ -1,0 +1,6 @@
+git touch 
+git add .
+git commit -m "lable"
+git cid
+git status
+git branch name
